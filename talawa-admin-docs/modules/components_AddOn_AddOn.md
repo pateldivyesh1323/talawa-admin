@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/components/AddOn/AddOn.tsx:11](https://github.com/pateldivyesh1323/talawa-admin/blob/926c168/src/components/AddOn/AddOn.tsx#L11)
+[src/components/AddOn/AddOn.tsx:11](https://github.com/pateldivyesh1323/talawa-admin/blob/df259fc/src/components/AddOn/AddOn.tsx#L11)

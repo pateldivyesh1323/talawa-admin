@@ -26,4 +26,4 @@
 
 #### Defined in
 
-[src/components/Advertisements/core/AdvertisementRegister/AdvertisementRegister.tsx:36](https://github.com/pateldivyesh1323/talawa-admin/blob/926c168/src/components/Advertisements/core/AdvertisementRegister/AdvertisementRegister.tsx#L36)
+[src/components/Advertisements/core/AdvertisementRegister/AdvertisementRegister.tsx:36](https://github.com/pateldivyesh1323/talawa-admin/blob/df259fc/src/components/Advertisements/core/AdvertisementRegister/AdvertisementRegister.tsx#L36)
